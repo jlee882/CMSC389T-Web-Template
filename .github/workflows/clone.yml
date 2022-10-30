@@ -1,6 +1,6 @@
 # This is a basic workflow that is manually triggered
 
-name: Manual workflow
+name: clone workflow
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
@@ -20,4 +20,4 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
         script: |
-          git clone https://github.com/jlee882/CMSC389T-Web-Template.git
+          git clone

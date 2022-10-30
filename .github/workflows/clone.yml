@@ -20,4 +20,4 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
         script: |
-          git clone
+          git clone CMSC389T-Web-Template

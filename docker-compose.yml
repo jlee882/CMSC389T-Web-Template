@@ -6,8 +6,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: node:10-alpine
-    container_name: Nodejs
+    image: node-web-app
+    container_name: website
     restart: unless-stopped
 
     # end configuration

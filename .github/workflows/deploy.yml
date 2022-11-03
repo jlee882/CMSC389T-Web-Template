@@ -24,3 +24,6 @@ jobs:
           script: |
             cd CMSC389T-Web-Template
             git pull
+            yes | cp -r assets ../../pub/
+            yes | cp index.html ../../pub/
+            yes | cp -r css ../../pub/

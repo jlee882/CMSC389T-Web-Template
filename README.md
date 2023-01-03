@@ -1,6 +1,6 @@
 # cmsc388T-web-template
 ## Website link
-Github pages site link: removed
+Github pages site link: removed  
 Terpconnect link: removed
 ## Custom Change
 Linked in added to website
